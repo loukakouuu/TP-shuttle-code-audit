@@ -1,3 +1,27 @@
+> ## ⚠️ À propos de ce dépôt
+>
+> **Ce dépôt n'est pas un projet original.** Il contient une copie de
+> [**Shuttle Music Player**](https://github.com/timusus/Shuttle), lecteur de
+> musique Android open source créé par [timusus](https://github.com/timusus),
+> distribué sous licence **GPL v3**.
+>
+> Il m'a servi de base de code pour un **projet scolaire d'analyse de qualité
+> logicielle** : auditer une application réelle et legacy avec SonarQube, puis
+> corriger ce que l'analyse remonte.
+>
+> **Mon travail se limite aux commits suivants :**
+>
+> - `Refactor: Cleanup code smells in UI layer`
+> - `Fix: Resolve TODOs and warnings in playback manager`
+> - `Refactor: Improve data models and repository`
+> - `Chore: SonarCloud quality gate compliance fixes`
+>
+> Tout le reste — l'application, son architecture, le README ci-dessous — est
+> l'œuvre de son auteur d'origine. Le projet amont n'est plus maintenu ; son
+> successeur est [Shuttle2](https://github.com/timusus/Shuttle2).
+
+---
+
 ### Shuttle Music Player
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE.md)
